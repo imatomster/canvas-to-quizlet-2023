@@ -1,4 +1,6 @@
-# Flashcards Conversion Script
+# Canvas to Quizlet Flashcards
+
+![Canvas to Quizlet Logo](https://i.imgur.com/49t1ZZ2.png)
 
 This script is designed to read HTML files, extract question-answer pairs, and write them to new text files. It's useful for converting structured HTML content into a plain text format that can be imported into tools like Quizlet.
 
