@@ -19,20 +19,16 @@ pip install beautifulsoup4
 1. Clone the repository containing the script. If the script is hosted on a platform like GitHub, you can use the following command:
 
    ```
-   git clone <URL of the repository>
+   git clone git@github.com:imatomster/canvas-to-quizlet-2023.git
    ```
-
-   Replace `<URL of the repository>` with the actual URL of the Git repository hosting the script.
 
    If you prefer, you can also download the repository as a ZIP file and then extract it on your local machine.
 
 2. Navigate to the directory containing the script:
 
    ```
-   cd <directory-containing-script>
+   cd canvas-to-quizlet-2023
    ```
-
-   Replace `<directory-containing-script>` with the name of the directory.
 
 ## How to Use ! ! !
 
